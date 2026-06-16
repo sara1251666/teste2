@@ -1,0 +1,32 @@
+sigla;nome;anoCurricular;siglaDocenteResponsavel;siglaCurso;ects;momentos
+P1;Programacao I;1;ABC;LEI;6;0
+ALGA;Algebra Linear;1;XYZ;LEI;6;0
+AM1;Analise Matematica I;1;MNO;LEI;6;0
+AC;Arquitetura de Computadores;1;ABC;LEI;6;0
+P2;Programacao II;2;ABC;LEI;6;0
+BD;Base de Dados;2;XYZ;LEI;6;0
+RC;Redes de Computadores;2;MNO;LEI;6;0
+SO;Sistemas Operativos;2;ABC;LEI;6;0
+IA;Inteligencia Artificial;3;ABC;LEI;6;0
+AS;Arquitetura de Software;3;XYZ;LEI;6;0
+PDM;Programacao Dispositivos Moveis;3;MNO;LEI;6;0
+PROJ;Projeto Final LEI;3;ABC;LEI;6;0
+ECO1;Economia I;1;MNO;LGE;6;0
+GEST;Gestao de Empresas;1;XYZ;LGE;6;0
+ECO2;Economia II;2;MNO;LGE;6;0
+MKT;Marketing;2;XYZ;LGE;6;0
+FIN;Financas;2;ABC;LGE;6;0
+STRAT;Estrategia Empresarial;3;MNO;LGE;6;0
+HR;Recursos Humanos;3;XYZ;LGE;6;0
+PROJG;Projeto Final Gestao;3;ABC;LGE;6;0
+EST;Estatística;1;ABC;LEI;6;0
+P1;Programacao I;1;ABC;CPSI;6;0
+EST;Estatística;1;MFP;EEC;6;0
+ALG;Álgebra;1;MFP;EEC;6;0
+MAT;Matematica aplicada;1;MFP;EEC;6;0
+FIS;Fisica Aplicada;1;AVN;EEC;6;0
+RO2;Robótica 2;2;AVA;EEC;6;0
+AI;Inteligencia Artificial;2;AVA;EEC;6;0
+ALP;Algoritmia e Progamaçaõ;2;AVN;EEC;6;0
+PEE;Projeto e estagio;3;AVN;EEC;6;0
+cpsi;Artes;1;JOS;CPSI;6;2

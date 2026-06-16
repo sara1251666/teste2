@@ -1,0 +1,7 @@
+sigla;nome;siglaDepartamento;propina;estado
+LEI;Licenciatura em Engenharia Informatica;DEI;0.0;Ativo
+LGE;Licenciatura em Gestao de Empresas;DGE;0.0;Ativo
+CPSI;CPSI;DEI;1000.0;Inativo
+EEC;Eletrónica e Computadores;ENG;1200.0;Inativo
+EER;Eletrónica e Robótica;ENG;600.0;Inativo
+MDR;Mecanização de Robôs;EEM;0.0;Inativo

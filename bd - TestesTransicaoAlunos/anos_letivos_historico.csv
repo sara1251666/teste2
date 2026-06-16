@@ -1,0 +1,6 @@
+# anos_letivos_historico.csv
+# Formato: ano;estado;dataArquivo
+# Criado automaticamente ao fechar um ano letivo.
+# Consultável via menu "Histórico de Anos Fechados".
+
+ano;estado;dataArquivo
